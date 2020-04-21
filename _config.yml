@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Chao Liu
 description:  chaoliu18@fudan.edu.cn
+author:
+  name: Artem Sheludko
+  image: '/assets/img/artem-shelukod-photo.jpg'
+  job: Independent Web Developer
+  bio:
+  email: artemsheludko@tuta.io
