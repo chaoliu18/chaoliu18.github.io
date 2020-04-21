@@ -9,18 +9,12 @@ I am currently a Ph.D candidate with State Key Laboratory of ASIC and System, Fu
 on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020.
 3. **Chao Liu**, Heming Sun, Jiro Katto, Xiaoyang Zeng and Yibo Fan, "A Learning-Based Low Complexity In-loop Filter for Video Coding", Proc. IEEE International Conference on Multimedia and Expo (ICME) Workshops, 2020.
 
+## Awards
+1. Silver Award of Picture Coding Symposium (PCS) Grand Challenge, 2019
+2. First Prize & Huawei Special Award of National Post-Graduate Mathematical Contest in Modeling, 2019
 
-**Bold** and _Italic_ and `Code` text
+## Activities
+1. Picture Coding Symposium (PCS) Reviewer, 2019
 
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaoliu18/chaoliu18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Patents
+1. TBD
