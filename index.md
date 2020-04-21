@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a Ph.D candidate with State Key Laboratory of ASIC and System, Fudan University, under the supervision of Prof. Yibo Fan and Prof. Heming Sun at [VIP](http://viplab.fudan.edu.cn/). My research interests include learned image/video compression and processing.
+I am currently a Ph.D candidate with State Key Laboratory of ASIC and System, Fudan University, under the supervision of Prof. Yibo Fan and Prof. Heming Sun at [VIP](http://viplab.fudan.edu.cn/). My research interests include learned image/video compression.
 
 ## Publications
 
@@ -16,5 +16,3 @@ on Computer Vision and Pattern Recognition (CVPR) Workshops, 2020.
 ## Activities
 1. Picture Coding Symposium (PCS) Reviewer, 2019
 
-## Patents
-1. TBD
