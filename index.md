@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/chaoliu18/chaoliu18.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently a Ph.D candidate with State Key Laboratory of ASIC and System, Fudan University, under the supervision of Prof. Yibo Fan and Prof. Heming Sun at [VIP](http://viplab.fudan.edu.cn/). My research interests include learned image/video compression and processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Publications
 
 # Header 1
 ## Header 2
@@ -24,7 +17,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
